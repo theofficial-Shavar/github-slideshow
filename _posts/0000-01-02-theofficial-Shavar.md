@@ -2,5 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+```java 
+System.out.println("hello world);
+```
+
 Use the left arrow to go back!
